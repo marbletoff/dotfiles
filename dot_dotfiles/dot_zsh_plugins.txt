@@ -1,0 +1,22 @@
+# Theme
+romkatv/powerlevel10k
+
+# Plugins
+rupa/z
+zsh-users/zsh-history-substring-search
+zsh-users/zsh-completions
+Aloxaf/fzf-tab
+joshskidmore/zsh-fzf-history-search
+ohmyzsh/ohmyzsh path:plugins/colored-man-pages/
+
+# aliases
+fdellwing/zsh-bat
+DarrinTisdale/zsh-aliases-exa
+aubreypwd/zsh-plugin-fd
+changyuheng/fz.sh
+
+# order sensetive
+zsh-users/zsh-autosuggestions
+zdharma/fast-syntax-highlighting
+
+
